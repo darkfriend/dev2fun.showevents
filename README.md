@@ -56,8 +56,8 @@
 
 ## Интерфейс
 
-![Image of 1](https://github.com/darkfriend/dev2fun.showevents/images/fbda0c8c13.png)
+![Image of 1](https://raw.githubusercontent.com/darkfriend/dev2fun.showevents/master/images/fbda0c8c13.png?raw=true)
 
-![Image of 1](https://github.com/darkfriend/dev2fun.showevents/images/348a5e1b3e.png)
+![Image of 1](https://raw.githubusercontent.com/darkfriend/dev2fun.showevents/master/images/348a5e1b3e.png?raw=true)
 
-![Image of 1](https://github.com/darkfriend/dev2fun.showevents/images/7e76a7efe7.png)
+![Image of 1](https://raw.githubusercontent.com/darkfriend/dev2fun.showevents/master/images/7e76a7efe7.png)
