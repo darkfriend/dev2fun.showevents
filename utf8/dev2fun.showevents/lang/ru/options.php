@@ -1,6 +1,6 @@
 <?php
-$MESS["SEC_MAIN_TAB"] = "Управление событиями";
-$MESS["SEC_MAIN_TAB_TITLE"] = "Управление событиями 1С-Битрикс";
+$MESS["DEV2FUN_SEC_MAIN_TAB"] = "Управление событиями";
+$MESS["DEV2FUN_SEC_MAIN_TAB_TITLE"] = "Управление событиями 1С-Битрикс";
 
 $MESS["DEV2FUN_SHOW_EVENTS_DELETE_CONFIRM_ALERT"] = "Вы уверены, что хотите удалить событие?";
 
@@ -24,6 +24,6 @@ $MESS['LABEL_TITLE_HELP_DONATE_OTHER_TEXT_S'] = <<<EOT
 	<p class="c-paragraph">Мы стараемся радовать вас удобными и полезными решениями. Приятной работы!</p>
 EOT;
 $MESS['LABEL_TITLE_HELP_DONATE_FOLLOW'] = 'Следите за новостями';
-$MESS['SEC_DONATE_TAB'] = 'Поблагодарить';
-$MESS['SEC_DONATE_TAB_TITLE'] = 'Поблагодарить за модуль';
+$MESS['DEV2FUN_SEC_DONATE_TAB'] = 'Поблагодарить';
+$MESS['DEV2FUN_SEC_DONATE_TAB_TITLE'] = 'Поблагодарить за модуль';
 ?>

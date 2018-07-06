@@ -21,7 +21,7 @@
 1. Установить модуль Управление событиями в 1С-Битрикс (dev2fun.showevents)
 1. Прочитать сообщение
 1. Зайти в папку migrations и поочередно запустить каждую миграцию
-1. Использовать модуль на странице `/bitrix/admin/dev2fun_show_events.php?action=settings`
+1. Использовать модуль на странице `/bitrix/admin/settings.php?lang=ru&mid=dev2fun.showevents&mid_menu=1`
 1. Поблагодарить автора :)
 
 ## Шаги обновлений
