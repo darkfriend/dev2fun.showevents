@@ -14,7 +14,7 @@ CModule::IncludeModule("dev2fun.showevents");
 use \Bitrix\Main\Localization\Loc;
 use Bitrix\Main\Config\Option;
 
-IncludeModuleLangFile($GLOBALS['reqPath']);
+IncludeModuleLangFile(__FILE__);
 
 if($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST['ACTION'])) {
 	$eventManager = \Bitrix\Main\EventManager::getInstance();
