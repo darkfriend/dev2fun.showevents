@@ -13,6 +13,26 @@
 * модуль позволяет фильтровать модули, классы, события, методы
 * модуль позволяет сортировать любую колонку
 
+### Интерфейс
+![Screenshot_31](https://user-images.githubusercontent.com/7825114/215313415-42d75368-77b3-47e2-a290-3b75767e2b54.jpg)
+
+#### Поиск по модулю
+![Screenshot_32](https://user-images.githubusercontent.com/7825114/215313460-11f73275-9327-4e8a-8ffb-a744d2117171.jpg)
+
+#### Дополнительные картинки
+
+![Image of 1](https://raw.githubusercontent.com/darkfriend/dev2fun.showevents/master/images/fbda0c8c13.png?raw=true)
+
+![Image of 1](https://raw.githubusercontent.com/darkfriend/dev2fun.showevents/master/images/348a5e1b3e.png?raw=true)
+
+![Image of 1](https://raw.githubusercontent.com/darkfriend/dev2fun.showevents/master/images/7e76a7efe7.png)
+
+## Как пользоваться UI
+* В шапке таблицы есть input-поля, это фильтры
+* Вводите текст и нажимаете Enter
+* Внизу таблицы есть пагинация
+* При нажатии на иконку корзины происходит удаление события 
+
 ## Шаги первой установки
 
 1. Узнать кодировку своего сайта (utf8 или win1251)
@@ -38,6 +58,7 @@
 
 |   |  |
 | ------------- | ------------- |
+| Bank Card  | [Visa/Mastercard/Mir/Other](https://www.tinkoff.ru/cf/36wVfnMf7mo)  |
 | Yandex.Money  | 410011413398643  |
 | Webmoney WMR (rub)  | R218843696478  |
 | Webmoney WMU (uah)  | U135571355496  |
@@ -52,12 +73,3 @@
 | Litecoin  | LRN5cssgwrGWMnQruumfV2V7wySoRu7A5t  |
 | Ethereum  | 0xe287Ac7150a087e582ab223532928a89c7A7E7B2  |
 | BitcoinCash  | bitcoincash:qrl8p6jxgpkeupmvyukg6mnkeafs9fl5dszft9fw9w  |
-
-
-## Интерфейс
-
-![Image of 1](https://raw.githubusercontent.com/darkfriend/dev2fun.showevents/master/images/fbda0c8c13.png?raw=true)
-
-![Image of 1](https://raw.githubusercontent.com/darkfriend/dev2fun.showevents/master/images/348a5e1b3e.png?raw=true)
-
-![Image of 1](https://raw.githubusercontent.com/darkfriend/dev2fun.showevents/master/images/7e76a7efe7.png)
