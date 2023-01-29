@@ -26,4 +26,3 @@ EOT;
 $MESS['LABEL_TITLE_HELP_DONATE_FOLLOW'] = 'Следите за новостями';
 $MESS['DEV2FUN_SEC_DONATE_TAB'] = 'Поблагодарить';
 $MESS['DEV2FUN_SEC_DONATE_TAB_TITLE'] = 'Поблагодарить за модуль';
-?>

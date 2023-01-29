@@ -9,4 +9,3 @@ $MESS["D2F_SHOWEVENTS_ERROR_IBLOCK_TYPE"] = 'Ошибка удаления #IBLO
 $MESS["D2F_SHOWEVENTS_ERRORS_DELETE_FILE"] = 'Ошибка! Не получилось удалить файлы из #FILE#';
 $MESS["D2F_SHOWEVENTS_ERRORS_DELETE_DIR"] = 'Ошибка! Не получилось удалить папку #FILE#';
 $MESS["D2F_SHOWEVENTS_ERRORS_CREATE_DIR"] = 'Ошибка! Не получилось создать папку в #DIR#';
-?>
